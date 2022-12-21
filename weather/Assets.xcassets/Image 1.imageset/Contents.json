@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Original Nature Photography by Dietmar Scherf | Photorealism Art on Aluminium | Perfect Blue Sky (2016) (Original).jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Original Nature Photography by Dietmar Scherf | Photorealism Art on Aluminium | Perfect Blue Sky (2016) (Original) 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Original Nature Photography by Dietmar Scherf | Photorealism Art on Aluminium | Perfect Blue Sky (2016) (Original) 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
